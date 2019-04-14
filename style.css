@@ -1,0 +1,73 @@
+li {
+    font-family: Georgia;
+    color: #970da6;
+}
+
+#pierwszy{
+    width: 100vw;
+    height: 100vh;
+    color: blue;
+    background-color: black;
+}
+
+body{
+    height: 100%;
+    width: 100%;
+    background-color: #064706;
+}
+
+#table{
+    background-color: #B1F9B1;
+    width: 40vw;
+    height: 70vh;
+    
+    border: 10px solid #B1F9B1;
+}
+
+#kol{
+    background-color: #87A8F4;
+}
+#wier{
+    background-color: yellow;
+}
+
+#nazwaGry{
+    text-align: center;
+    background-color: yellowgreen; 
+    font-size: 5vh
+}
+
+#play{
+    background-color: yellowgreen;
+    color: white;
+    border: 1px solid yellowgreen;
+    font-size: 5vh;
+    height: 15vh;
+    width: 30vw;
+}
+
+#button{
+    text-align: center;
+    height: 15vh;
+    width: 30vw;
+    background-color: yellowgreen;
+    margin-left: 35%;
+    margin-right: 40%;
+    margin-top: 20%;    
+}
+
+#ta{
+    margin-left: 30vw;
+    margin-right: 33vw;
+    text-align: center;
+    height: 30vh;
+    width: 30vw;
+    background-color: yellowgreen;
+}
+
+#licznikKlik{
+    font-size: 5vh;
+    color: rgb(177, 249, 177);
+    width: 10vw;
+    height: 10vh;
+}
